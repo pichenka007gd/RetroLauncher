@@ -7,10 +7,10 @@
 - [ClearLag](plugins/clearlag.md)
 - CS-CoreLib
 - Dynmap-WorldGuard-0.80
-- gMoney
-- GriefLog
+- [gMoney](plugins/gmoney.md)
+- [GriefLog](plugins/grieflog.md)
 - GriefPreventionData
-- HomeSpawnPlus
+- [HomeSpawnPlus](plugins/homespawnplus.md)
 - JPanel
 - LoginSecurity
 - LootCrates
@@ -68,63 +68,9 @@
 
 
 
-### gMoney ###
 
-Внимание!
-Чтобы пользоватся плагином нужно создать аккаунт
-Для этого нужно хотябы один раз использовать команду баланса:
-» /m, /money, /eco, /coins, /cash, /tokens, /pich
 
-Default
 
-» /money                      • Создайте учетную запись или проверьте свои деньги
-» /money <player>             • Посмотрите деньги игрока
-» /money pay <player> <count> • Отправьте деньги игроку
-» /money top                  • Смотрите 5 самых богатых игроков
-» /money help                 • Все Команды И Ваше Описание
-
-Admin
-
-» /money give <player> <count> • Добавляет деньги к балансу игрока
-» /money set <player> <count>  • Устанавливает баланс игрока
-» /money reset <player>        • Сбрасывает учетную запись игрока
-» /money converter <plugin>    • Конвертирует плагины из economy в money economy
-» /money permissions           • Просмотрите все разрешения
-
-### GriefLog ###
-
-Плагин собирает тотальную статистику о каждом вашем шаге)
-
-• Когда игрок присоединяется к серверу
-• Когда игрок разбивает блок
-• Когда игрок ставит блок
-• Когда игрок использует команду
-• Когда игрок меняет мир, в котором он находится
-• Когда игрок покидает сервер
-• Если блок воспламеняется
-• Если ведро опорожнено
-• Если Эндермен берет или ставит блок
-• Если Зомби выломает дверь
-• Если произойдет какой- либо взрыв
-
-И я проверю каждый ваш, ЧЕРТ ВОЗЬМИ, подозрительно поставленный блок
-+ сверху намажу плагин на автоматический бан гриферов
-
-Вы все на лодони поэтому: мир, дружба, жвачка ;D
-
-Default
-
-» /glog report • это позволит администраторам сообщить о проблеме. Используйте для любой связи с администраторами
-
-Admin
-
-» /glog report view     • администраторы могут просматривать информацию об репорте проблемы. В нём отображается местоположение отчёта и автор
-» /glog help            • это выведет ту же информацию, которую вы видите здесь, но в вашем клиенте Minecraft
-» /glog tool            • это инструмент GriefLog. Вы можете настроить инструмент в файле config.yml
-» /glog rollback <args> • чтобы использовать откат, пожалуйста, прочтите раздел нашей wiki здесь
-» /glog search <args>   • вы можете искать определённые события. Параметры те же, что и при отмене
-» /glog page  <id>      • это позволит вам просмотреть другие страницы вашего последнего поиска
-» /glog undo <id>       • это отменит откат, связанный с идентификатором. Не указывайте номер, чтобы отменить последний откат
 
 ### GriefPrevention ###
 
@@ -133,54 +79,7 @@ Admin
 
 
 
-### HomeSpawnPlus ###
 
-жирный плагин домов
-
-Default
-
-» /hsp
-» /spawn
-» /spawnlist
-» /home
-» /homelist
-» /sethome
-» /homerename
-» /homedelete
-» /homeinvite
-» /homeinviteaccept
-» /homeinvitedelete
-» /homeinvitelist
-» /homeinviteteleport
-
-
-Admin
-
-» /customeventcommand
-» /groupquery
-» /groupspawn
-» /homedeleteother
-» /homeinvite
-» /homeinviteaccept
-» /homeinvitedelete
-» /homeinvitelist
-» /homeinviteteleport
-» /homelistother
-» /homeother
-» /hspconvert
-» /hspdebug
-» /permcheck
-» /setdefaulthome
-» /setdefaultspawn
-» /setfirstspawn
-» /setgroupspawn
-» /sethomeother
-» /setmapspawn
-» /setplayerspawn
-» /setspawn
-» /showplayerspawn
-» /spawndelete
-» /spawnrename
 
 ### LoginSecurity ###
 
