@@ -1,8 +1,10 @@
 # RetroLauncher Project
 
-Это проект **Minecraft лаунчера**   
+Это проект Minecraft лаунчера
 
-tg: [@RetroLauncher](https://t.me/RetroLauncher)
+tg:
+- [RetroRoom](https://t.me/RetroR00m)
+- [RetroLauncher](https://t.me/RetroLauncher)
 
 ---
 
