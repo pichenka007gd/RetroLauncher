@@ -35,5 +35,3 @@
 * `/setwarp <name>`
 
   * Установить точку варпа (permission `tpa.setwarp`)
-
----

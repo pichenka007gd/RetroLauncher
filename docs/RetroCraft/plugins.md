@@ -1,7 +1,7 @@
 # Plugins:
 
-- AutoSaveWorld
-- bPermissions
+- [AutoSaveWorld](plugins/autosaveworld.md)
+- [bPermissions]
 - [ChestShop](plugins/chestshop.md)
 - [CleanPing](plugins/cleanping.md)
 - [ClearLag](plugins/clearlag.md)
@@ -9,18 +9,17 @@
 - Dynmap-WorldGuard-0.80
 - [gMoney](plugins/gmoney.md)
 - [GriefLog](plugins/grieflog.md)
-- GriefPreventionData
 - [HomeSpawnPlus](plugins/homespawnplus.md)
 - JPanel
 - [LoginSecurity](plugins/loginsecurity.md)
-- LootCrates
-- Playtimes
-- PluginMetrics
-- ServerSigns
-- Shopkeepers
-- SimpleAutoRestart
+- [LootCrates](plugins/lootcrates.md)
+- [Playtimes](plugins/playtimes.md)
+- [PluginMetrics](plugins/pluginsmetrics.md)
+- [ServerSigns](plugins/serversigns.md)
+- [Shopkeepers](plugins/shopkeepers.md)
+- [SimpleAutoRestart](plugins/simpleautorestart.md)
 - [TPA](plugins/tpa.md)
-- Vault
+- [Vault](plugins/vault.md)
 - [WorldEdit](plugins/worldedit.md)
 - [WorldGuard](plugins/worldguard.md)
 
@@ -67,74 +66,5 @@
 
 
 
-
-
-
-
-
-### GriefPrevention ###
-
-там 101 команда
-потом настрою
-
-
-
-
-
-
-
-### LuckPerms ###
-
-Это никому не нужно)
-
-### ServerSigns ###
-
-Инструмент для кастомных механик и тд
-Что нибудь сделаю XD
-
-ServerSigns (SVS) позволяет привязывать команды, сообщения и действия, отправляемые игроками и сервером, к знакам и любым другим блокам в Minecraft
-
-Как только игрок нажимает на ServerSign, настроенные действия выполняются в указанном вами порядке и с заданными вами настройками
-
-Без ограничений: Неограниченное количество команд для каждого сервера
-Многофункциональность: назначайте различные действия при нажатии на значок (даже определяйте разные команды для нажатия правой/левой кнопкой мыши)
-Сообщения: Отправлять сообщения игроку
-Широковещательные рассылки: Отправка сообщений на весь сервер
-Команды для игроков: Выполняет команды так, как если бы игрок ввёл их в чате
-Команды сервера: Выполняет команды так, как если бы они были выполнены с консоли сервера
-Отложенные действия: любое действие может быть отложено (от нескольких секунд до нескольких месяцев)
-Циклические действия: любой ServerSign можно преобразовать в циклические команды сервера с заданными интервалами
-Требуются разрешения: для использования ServerSigns могут потребоваться разрешения
-Предоставить разрешения: Предоставляет игрокам временные разрешения на выполнение команд
-Стоимость за каждый знак: привяжите опыт, деньги и стоимость предметов к ServerSigns
-Защищено: Автоматически защищает каждый серверный знак и любые подключенные блоки
-Базовый сценарий: реализуйте операторы if/else и return в командах на ServerSigns
-
-если он конечно работает
-
-### Shopkeepers ###
-
-Плагин для создания NPC обменников
-Если ChestShop инструмент для экономики сервера через валюту сервера, то Shopkeepers для обмена предметов на предметы
-
-### SimpleAutoRestart ###
-
-Рестартит сервер, пугает игроков)
-
-/simpleautorestart /sar /autorestart - алиасы
-
-Admin
-
-» /sar cancel • Остановить рестарты
-» /sar resume • Продолжить рестатры
-» /sar status • Состояние рестартов
-
-### Vault ###
-
-Плагин экономики. Настоящие герои не носят плащи...
-
-Default
-
-» /vault-info • Информация
 
 

@@ -200,5 +200,3 @@ Can you build? No. / Yes.
 * `/stoplag -c`
 
   * Отменить действие `/stoplag`
-
----
