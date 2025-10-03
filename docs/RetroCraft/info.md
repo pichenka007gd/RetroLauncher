@@ -1,16 +1,16 @@
 # Plugins:
 
 - [AutoSaveWorld](plugins/autosaveworld.md)
-- [bPermissions]
+- [bPermissions](plugins/bpermissions.md)
 - [ChestShop](plugins/chestshop.md)
 - [CleanPing](plugins/cleanping.md)
 - [ClearLag](plugins/clearlag.md)
 - CS-CoreLib
-- Dynmap-WorldGuard-0.80
+- `Dynmap-WorldGuard-0.80`
 - [gMoney](plugins/gmoney.md)
 - [GriefLog](plugins/grieflog.md)
 - [HomeSpawnPlus](plugins/homespawnplus.md)
-- JPanel
+- `JPanel`
 - [LoginSecurity](plugins/loginsecurity.md)
 - [LootCrates](plugins/lootcrates.md)
 - [Playtimes](plugins/playtimes.md)
