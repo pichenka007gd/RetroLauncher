@@ -127,8 +127,6 @@ Can you build? No. / Yes.
 
   * Удалить членов региона
 
----
-
 ## команды (Admin)
 
 * `/wg reload`
