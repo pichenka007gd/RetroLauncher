@@ -4,7 +4,7 @@
 - bPermissions
 - [ChestShop](plugins/chestshop.md)
 - [CleanPing](plugins/cleanping.md)
-- ClearLag
+- [ClearLag](plugins/clearlag.md)
 - CS-CoreLib
 - Dynmap-WorldGuard-0.80
 - gMoney
@@ -66,28 +66,7 @@
 
 
 
-### ClearLag ###
 
-Default
-
-» /lagg check • Узнать состояние сервера
-» /lagg tps   • Показывает среднее время тика сервера
-» /lagg chunk • Ищет лагающие чанки
-
-Admin
-
-» /lagg clear        • Удаляет сущности из ващего мира
-» /lagg area <count> • Удаляет сущности в радиусе
-» /lagg check        • Считает кол-во сущностей в вашем мире
-» /lagg gc           • Запрос сборщика мусора
-» /lagg killmobs     • Удаляет мобов из вашего мира
-» /lagg tpchunk      • Телепорт в загруженные чанки
-» /lagg unloadchunks • Выгружает неиспользуемые чанки
-» /lagg halt         • Останавливает большую часть активности сервера
-» /lagg admin        • Настройка модулей Clearlag
-» /lagg checkchunk   • Показывает сущности в чанке
-» /lagg sampleticks  • Сэмплы тиков чанков
-» /lagg memory       • Узнать состояние памяти
 
 ### gMoney ###
 
