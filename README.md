@@ -7,4 +7,4 @@ tg: [@RetroLauncher](https://t.me/RetroLauncher)
 ---
 
 ### Сервера:
-- [RetroCraft](docs/RetroLauncher/index.md)
+- [RetroCraft](docs/RetroCraft/index.md)
