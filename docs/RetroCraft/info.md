@@ -25,7 +25,7 @@
 
 ---
 
-### MODS ###
+# MODS:
 
 - AdvancedSolarPanel
 - ae2stuff
@@ -40,12 +40,12 @@
 - CodeChickenCore
 - CodeChickenLib
 - CraftTweaker
-- Dynmap
+- `Dynmap`
 - excompressum
 - Ex-Nihilo
 - extrautilities
 - forestry
-- GlibysVC
+- `GlibysVC`
 - Goki_Stats
 - industrialcraft
 - ironchest
@@ -56,15 +56,7 @@
 - neiaddons
 - NotEnoughItems
 - Reliquary
-- Ruins
+- `Ruins`
 - +unimixins-all
 - UpdateCheckerMod
 - Xaeros_Minimap
-
-
-
-
-
-
-
-
