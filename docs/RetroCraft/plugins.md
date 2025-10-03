@@ -1,3 +1,31 @@
+# Plugins:
+
+- AutoSaveWorld
+- bPermissions
+- ChestShop
+- CleanPing
+- ClearLag
+- CS-CoreLib
+- Dynmap-WorldGuard-0.80
+- gMoney
+- GriefLog
+- GriefPreventionData
+- HomeSpawnPlus
+- JPanel
+- LoginSecurity
+- LootCrates
+- Playtimes
+- PluginMetrics
+- ServerSigns
+- Shopkeepers
+- SimpleAutoRestart
+- [TPA](plugins/tpa.md)
+- Vault
+- [worldedit](plugins/worldedit.md)
+- [worldguard](plugins/worldguard.md)
+
+---
+
 ### MODS ###
 
 - AdvancedSolarPanel
@@ -33,32 +61,6 @@
 - +unimixins-all
 - UpdateCheckerMod
 - Xaeros_Minimap
-
-### Plugins ###
-
-- AutoSaveWorld
-- bPermissions
-- ChestShop
-- CleanPing
-- ClearLag
-- CS-CoreLib
-- Dynmap-WorldGuard-0.80
-- gMoney
-- GriefLog
-- GriefPreventionData
-- HomeSpawnPlus
-- JPanel
-- LoginSecurity
-- LootCrates
-- Playtimes
-- PluginMetrics
-- ServerSigns
-- Shopkeepers
-- SimpleAutoRestart
-- [TPA](plugins/tpa.md)
-- Vault
-- [worldedit](plugins/worldedit.md)
-- [worldguard](plugins/worldguard.md)
 
 ### ChestShop ###
 
