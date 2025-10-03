@@ -12,7 +12,7 @@
 - GriefPreventionData
 - [HomeSpawnPlus](plugins/homespawnplus.md)
 - JPanel
-- LoginSecurity
+- [LoginSecurity](plugins/loginsecurity.md)
 - LootCrates
 - Playtimes
 - PluginMetrics
@@ -81,24 +81,7 @@
 
 
 
-### LoginSecurity ###
 
-Ну как же без регистрации
-
-Время для регистрации: 60 сек
-Время сессии: 300 сек (если вы вышли с сервера, то вы можете зайти на него без ввода пароля в течении времени сессии)
-
-Default
-
-» /register <pass>                  • Установите свой пароль
-» /login <pass>                     • Войдите используя свой пароль
-» /changepass <old pass> <new pass> • Измените свой пароль
-» /logout                           • Удалить аккаунт
-
-Admin
-
-» /lac rmpass <player> • Удалить пароль (аккаунт?) игрока
-» /lac reload          • Перезагрузка плагина
 
 ### LuckPerms ###
 
