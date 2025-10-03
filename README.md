@@ -2,7 +2,7 @@
 
 Это проект Minecraft лаунчера
 
-tg:
+### tg:
 - [RetroRoom](https://t.me/RetroR00m)
 - [RetroLauncher](https://t.me/RetroLauncher)
 
