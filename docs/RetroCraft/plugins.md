@@ -21,8 +21,8 @@
 - SimpleAutoRestart
 - [TPA](plugins/tpa.md)
 - Vault
-- [worldedit](plugins/worldedit.md)
-- [worldguard](plugins/worldguard.md)
+- [WorldEdit](plugins/worldedit.md)
+- [WorldGuard](plugins/worldguard.md)
 
 ---
 
