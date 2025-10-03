@@ -55,7 +55,7 @@
 - ServerSigns
 - Shopkeepers
 - SimpleAutoRestart
-- [TPA](docs/RetroCraft/plugins/tpa.md)
+- [TPA](plugins/tpa.md)
 - Vault
 - worldedit-6.1
 - worldguard-6.1
