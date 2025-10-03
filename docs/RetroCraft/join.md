@@ -20,9 +20,9 @@
 
 ### Группы:
 
-- Default
-- Roomer
-- Admin
+- `Default`
+- `Roomer`
+- `Admin`
 
 может сделаю так чтобы через 30 минут игры `Default` повышался до `Roomer`
 
