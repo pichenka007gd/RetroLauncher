@@ -3,7 +3,7 @@
 - AutoSaveWorld
 - bPermissions
 - [ChestShop](plugins/chestshop.md)
-- [CleanPing](plugins/clearping.md)
+- [CleanPing](plugins/cleanping.md)
 - ClearLag
 - CS-CoreLib
 - Dynmap-WorldGuard-0.80
