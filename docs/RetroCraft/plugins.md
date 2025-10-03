@@ -3,7 +3,7 @@
 - AutoSaveWorld
 - bPermissions
 - [ChestShop](plugins/chestshop.md)
-- CleanPing
+- [CleanPing](plugins/clearping.md)
 - ClearLag
 - CS-CoreLib
 - Dynmap-WorldGuard-0.80
@@ -64,11 +64,7 @@
 
 
 
-### CleanPing ###
 
-» /ping                     • Узнать свой пинг;
-» /ping <player>            • Узнать пинг выбранного вами игрока;
-» /ping <player1> <player2> • Узнать разницу в пинге между двумя игроками;
 
 ### ClearLag ###
 
