@@ -8,7 +8,7 @@
 
 ### Default
 
-`/tpa <`*player*`>`
+`/tpa <player>`
 - Отправить игроку запрос на телепортацию  
 
 `/tpaccept`
