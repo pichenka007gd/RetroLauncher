@@ -13,28 +13,28 @@
 
 * `w` — мир (world)  
 * `g` — группа (group)  
-* `p` — игрок (player)  
+* `u` — игрок (user)  
 * `bp` — команда плагина  
 
 ---
 
 ## команды (Admin)
 
-* `bp p add <player> g <group> w <world>`
+* `bp u add <player> g <group> w <world>`
 
   * Добавить игрока в группу 
 
-* `bp p remove <player> g <group> w <world>`
+* `bp u remove <player> g <group> w <world>`
 
   * Удалить игрока из группы
 
 
-* `bp g setperm <group> <permission> true|false w <world>`
+* `bp u setperm <group> <permission> true|false w <world>`
 
   * Выдать разрешение группе
 
 
-* `bp p info <player>`
+* `bp u info <player>`
 
   * Просмотр информации игрока
 
