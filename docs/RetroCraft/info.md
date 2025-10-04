@@ -21,7 +21,7 @@
 - [Shopkeepers](plugins/shopkeepers.md)
 - [SimpleAutoRestart](plugins/simpleautorestart.md)
 - [SpawnTP](plugins/spawntp.md)
-- [TPA](plugins/tpa.md)
+- `TPA` [](plugins/tpa.md)
 - [Vault](plugins/vault.md)
 - [WorldEdit](plugins/worldedit.md)
 - [WorldGuard](plugins/worldguard.md)
